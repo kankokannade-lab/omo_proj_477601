@@ -19,3 +19,7 @@ k-NN Accuracy: 81%
 Убедитесь, что у вас установлен Python 3.10+. Откройте терминал в папке проекта и выполните:
 
 pip install -r requirements.txt
+
+Ссылка на приложение: https://omoproj477601-2saiygqsz6w7hwayu8nnd4.streamlit.app/
+ 
+
