@@ -4,7 +4,7 @@ import joblib
 
 # Подгружаем лучшую модель (в нашем случае это дерево, т. к. 
 # оно работает с сырыми данными и не нужно тащить сюда StandardScaler)
-model = joblib.load('models/dt_best_model.pkl')
+model = joblib.load('Модели/dt_best_model.pkl')
 
 st.set_page_config(page_title="D&D Threat Analyzer", page_icon="🐉", layout="wide")
 
